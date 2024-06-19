@@ -1,18 +1,12 @@
-### This is a first Project
-Auther:
-<br>
-Mayank Vishnoi👋
-<!--
-**mayankvishnoi24/mayankvishnoi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪧 Full Stack Developer And Tech consultant ✨
+🔭 Frontend : HTML , CSS , JavaScript & ECMA Script & TypeScript & JQuery & React & Angular
 
-Here are some ideas to get you started:
+🔥 BlockChain : Web3.js, Ether.js, Ethereum, Solana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Libraries : Bootstrap, TailwindCSS, Material UI, AntD
+
+👨‍💻 Backend : PHP / Laravel, codeIgniter, Node.js & Express
+
+💬 Database : MySQL, MongoDB, PostgreSQL, SQLite
+
+📫 Languages : English , Hindi
